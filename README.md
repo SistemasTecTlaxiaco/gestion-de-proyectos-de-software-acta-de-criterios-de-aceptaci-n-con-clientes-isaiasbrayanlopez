@@ -6,7 +6,7 @@ El **Stellar Community Fund (SCF)** es un programa de subvenciones descentraliza
 
 ---
 
-## 2. Requisitos de Postulación Vigentes
+## 2. Requisitos de Postulación Vigentes  
 
 | Requisito | Descripción |
 |-----------|-------------|
