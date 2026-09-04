@@ -87,9 +87,9 @@ Para garantizar el rigor técnico de este documento, se analizaron de manera dir
 
 ---
 
+# Estructura del Repositorio y Documentación
 
-
-
+A continuación se detalla la organización de los documentos que componen este repositorio:
 
 | Archivo | Descripción |
 |---------|-------------|
@@ -137,3 +137,17 @@ El proyecto actualmente no cuenta con:
 ## Fecha Estimada de Cierre Completo
 
 La fecha estimada para el cierre completo de todos los requisitos pendientes es el **15 de octubre de 2026**.
+
+---
+
+# Acta de Criterios de Aceptación con Clientes
+
+Para garantizar la satisfacción del cliente y el cumplimiento riguroso de los entregables en cada fase del proyecto, se definen los siguientes criterios de aceptación:
+
+| Criterio | Descripción | Método de Verificación |
+|----------|-------------|------------------------|
+| **Validación Funcional** | Todos los módulos desarrollados cumplen con las especificaciones técnicas acordadas. | Pruebas unitarias e integrales con cobertura superior al 90%. |
+| **Transparencia en Entregas** | Desembolsos y reportes financieros alineados con los hitos aprobados en SCF. | Registro y trazabilidad pública en el explorador de la red Stellar. |
+| **Seguridad del Código** | Contratos inteligentes libres de vulnerabilidades críticas o de severidad alta. | Reporte formal emitido por firma auditora externa independiente. |
+| **Aprobación del Cliente** | Demostración satisfactoria de las funcionalidades al cliente previo al cierre del hito. | Acta de entrega y recepción firmada por los interesados clave. |
+
