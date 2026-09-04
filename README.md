@@ -151,3 +151,12 @@ Para garantizar la satisfacción del cliente y el cumplimiento riguroso de los e
 | **Seguridad del Código** | Contratos inteligentes libres de vulnerabilidades críticas o de severidad alta. | Reporte formal emitido por firma auditora externa independiente. |
 | **Aprobación del Cliente** | Demostración satisfactoria de las funcionalidades al cliente previo al cierre del hito. | Acta de entrega y recepción firmada por los interesados clave. |
 
+---
+
+## Cómo Contribuir
+
+1. Realiza un _fork_ del repositorio.
+2. Crea una rama descriptiva para tu cambio (por ejemplo, `feature/nueva-seccion`).
+3. Envía un _pull request_ describiendo brevemente la motivación y el alcance del cambio.
+
+Las contribuciones relacionadas con documentación, corrección de datos o mejoras al backlog son bienvenidas.
